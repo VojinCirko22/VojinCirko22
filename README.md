@@ -1,6 +1,5 @@
 - Hi, I’m @VojinCirko22
-- I’m interested in game development, UI/UX design, Environment Design and various more creative outlets.
-- I’m currently learning Networking and Security, mostly finishing up on the CCNA courses and the exam.
+- I’m interested in game development, UI/UX design, Environment Design, but am doing coding in various languages and platforms :)
 - 
 - You can reach me on vojin.cirko@gmail.com 
 
