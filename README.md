@@ -1,5 +1,5 @@
 - Hi, I’m @VojinCirko22
-- I’m interested in game development, UI/UX design, Environment Design, but am doing coding in various languages and platforms :)
+- I’m interested in game development, UI/UX design, Environment Design, but also do code in various languages and platforms :)
 - 
 - You can reach me on vojin.cirko@gmail.com 
 
