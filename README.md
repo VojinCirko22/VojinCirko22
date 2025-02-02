@@ -1,7 +1,9 @@
 - Hi, I’m @VojinCirko22
-- I’m interested in game development, UI/UX design, Environment Design, but also do code in various languages and platforms :)
+- I mostly do software development in Java and C♯, but I do fiddle with front-end, and do a bit of UI/UX, graphic and 3D design. 👀
+- Currently located in Belgrade, Serbia 📍
 - 
-- You can reach me on vojin.cirko@gmail.com 
+- You can reach me on vojin.cirko@gmail.com 📧
+- Or add me on LinkedIn: https://www.linkedin.com/in/vojin-cirkovic2210 👷‍♂️
 
   
 
